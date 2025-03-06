@@ -1,0 +1,13 @@
+/*
+  Type Annotations || Signature
+  -- Indicate The Data Type Of Variables
+  -- Indicate The Data Type Of Functions Input/Output
+  -- Objects, etc.
+
+  - Why We Use It ?
+  wwe use it to force data typing it specifies the data type explicitly of variables, function parameters, return values, and object properties.
+  - Is It Mandatory ?
+  no not really ts compiler will see the data type and stick with it 
+  - What Happen If We Didn't Use It ?
+  nothing could change the compiler will detect the type  
+*/
