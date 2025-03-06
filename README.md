@@ -1,4 +1,4 @@
-# TypeScript Notes
+# ![TypeScript Logo](./images/ts-logo.png) TypeScript Notes
 
 Welcome to the **TypeScript Notes** repository! This guide provides an overview of key TypeScript concepts with supporting images for better understanding.
 
@@ -120,7 +120,8 @@ ts-notes/
 ## 🎯 Contribution
 Feel free to contribute to this repository by submitting pull requests or reporting issues.
 
-
+## 📜 License
+This project is licensed under the MIT License.
 
 Happy Coding! 🚀
 
