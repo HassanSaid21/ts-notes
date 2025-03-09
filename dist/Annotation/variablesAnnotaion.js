@@ -8,3 +8,6 @@ all = 100;
 let allVars;
 allVars = 5;
 allVars = "karim";
+let any = 'karim';
+any = true;
+any = 12;

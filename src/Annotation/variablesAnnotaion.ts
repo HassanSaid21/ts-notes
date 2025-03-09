@@ -1,7 +1,7 @@
 
 
 //*  *****Variable Type Annotation*******   *//
-
+//✅ Benefits: Prevents assigning values of incorrect types.
 let theName = "karim";
 theName = "said";
 let theAge: number = 40;
@@ -13,4 +13,7 @@ let allVars; // Any
 allVars = 5;
 allVars = "karim";
 
-//✅ Benefits: Prevents assigning values of incorrect types.
+// Sometimes a variable can hold more than one type. Use the | (pipe) operator for union types:
+let any: (string |number | boolean)  ='karim'  // the paranthes are optional
+any =true  ;
+any= 12
